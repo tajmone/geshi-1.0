@@ -49,15 +49,15 @@ $language_data = array (
     'KEYWORDS' => array(
         1 => array(
             // Keywords
-            'And', 'As', 'Break', 'CallDebugger', 'Case', 'CompilerCase', 'CompilerDefault', 'CompilerElse', 'CompilerEndIf', 'CompilerEndSelect',
-            'CompilerError', 'CompilerIf', 'CompilerSelect', 'Continue', 'Data', 'DataSection', 'EndDataSection', 'Debug', 'DebugLevel', 'Declare',
-            'DeclareCDLL', 'DeclareDLL', 'Default', 'Define', 'Dim', 'DisableASM', 'DisableDebugger', 'DisableExplicit', 'Else', 'ElseIf', 'EnableASM',
-            'EnableDebugger', 'EnableExplicit', 'End', 'EndEnumeration', 'EndIf', 'EndImport', 'EndInterface', 'EndMacro', 'EndProcedure',
+            'And', 'Array', 'As', 'Align', 'Break', 'CallDebugger', 'Case', 'CompilerCase', 'CompilerDefault', 'CompilerElse', 'CompilerElseIf', 'CompilerEndIf', 'CompilerEndSelect',
+            'CompilerError', 'CompilerIf', 'CompilerSelect', 'Continue', 'Data', 'DataSection', 'EndDataSection', 'Debug', 'DebugLevel', 'Declare', 'DeclareC',
+            'DeclareCDLL', 'DeclareDLL', 'Default', 'Define', 'Dim', 'DisableASM', 'DisableDebugger', 'DisableExplicit', 'DeclareModule', 'Else', 'ElseIf', 'EnableASM',
+            'EnableDebugger', 'EnableExplicit', 'End', 'EndEnumeration', 'EndIf', 'EndImport', 'EndInterface', 'EndMacro', 'EndProcedure', 'EndDeclareModule', 'EndModule',
             'EndSelect', 'EndStructure', 'EndStructureUnion', 'EndWith', 'Enumeration', 'Extends', 'FakeReturn', 'For', 'Next', 'ForEach',
-            'ForEver', 'Global', 'Gosub', 'Goto', 'If', 'Import', 'ImportC', 'IncludeBinary', 'IncludeFile', 'IncludePath', 'Interface', 'Macro',
-            'NewList', 'Not', 'Or', 'Procedure', 'ProcedureC', 'ProcedureCDLL', 'ProcedureDLL', 'ProcedureReturn', 'Protected', 'Prototype',
-            'PrototypeC', 'Read', 'ReDim', 'Repeat', 'Until', 'Restore', 'Return', 'Select', 'Shared', 'Static', 'Step', 'Structure', 'StructureUnion',
-            'Swap', 'To', 'Wend', 'While', 'With', 'XIncludeFile', 'XOr'
+            'ForEver', 'Global', 'Gosub', 'Goto', 'If', 'Import', 'ImportC', 'IncludeBinary', 'IncludeFile', 'IncludePath', 'Interface', 'List', 'Macro', 'Map', 'MacroExpandedCount',
+            'Module', 'NewList', 'Not', 'Or', 'Procedure', 'ProcedureC', 'ProcedureCDLL', 'ProcedureDLL', 'ProcedureReturn', 'Protected', 'Prototype',
+            'PrototypeC', 'Read', 'ReDim', 'Repeat', 'Until', 'Restore', 'Return', 'Runtime', 'Select','Shared', 'Static', 'Step', 'Structure', 'StructureUnion',
+            'Swap', 'To', 'Wend', 'While', 'With', 'XIncludeFile', 'XOr','UseModule', 'UnuseModule', 'UndefineMacro'
             ),
         2 => array(
             // All Functions
